@@ -1,6 +1,6 @@
 ---
 title: "La cultura en el desarrollo de software"
-date: 2022-04-06T23:16:21-06:00
+date: 2022-04-06
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
@@ -13,4 +13,4 @@ Creo que existen varios temas importantes el mundo relacionado al software, como
 - La correcta comunicación tanto verbal como escrita
 - El tratar de ayudar siempre que se pueda
 
-Esos siento que son las caracteristicas más importantes que debe tener la cultura de software :).
+Esos siento que son las caracteristicas más importantes que debe tener la cultura de software :)
