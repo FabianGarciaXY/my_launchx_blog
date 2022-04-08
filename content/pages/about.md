@@ -2,20 +2,16 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
-## Who am I
+## ¿Quien Soy
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola me llamo Fabián Hernandez Garcia, nací en Hidalgo y tengo 23 años (soy geminis XD) y actualmente radico Nuevo Leon.
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> En Twitter me puedes encontrar como ![@fabyanGaHezz](https://twitter.com/fabyanGaHezz).
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Actualmente estudio ingeniería en sistemas computacionales, y me interesan temas como la IA, ciencia de datos, o el computo distribuido como la block chain y desde luego el desarrollo web desde la parte del backend.
 
+En mi tiempo libre me gusta escuchar podcast, ver series, peliculas y sin duda me gusta estar programando aprendiendo cosas nuevas todos lo dias.
+En mi camino espero desempeñarme pronto como desarrollador de software·
